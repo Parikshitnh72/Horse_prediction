@@ -6,8 +6,21 @@ Background
 
 
 
+
+
+
+
+
+
+
+
+
 Problem Statement
 ![image](https://github.com/Parikshitnh72/Horse_prediction/assets/153513327/76c0fd83-e5e0-4fc2-b82b-ed8e437702fb)
+
+
+
+
 
 
 Data Sources
