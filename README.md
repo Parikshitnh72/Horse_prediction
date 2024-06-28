@@ -1,10 +1,6 @@
 #Horse Race Prediction
 
-
-Background
 ![image](https://github.com/Parikshitnh72/Horse_prediction/assets/153513327/8c4b2743-0f43-4129-9dd0-0d7a3f7de3a4)
-
-
 
 
 
