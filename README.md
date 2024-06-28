@@ -1,9 +1,14 @@
 #Horse Race Prediction
+
+
 Background
 ![image](https://github.com/Parikshitnh72/Horse_prediction/assets/153513327/8c4b2743-0f43-4129-9dd0-0d7a3f7de3a4)
 
+
+
 Problem Statement
 ![image](https://github.com/Parikshitnh72/Horse_prediction/assets/153513327/76c0fd83-e5e0-4fc2-b82b-ed8e437702fb)
+
 
 Data Sources
 Executive Summary
@@ -12,7 +17,6 @@ Recommendations
 Conclusion
 
 #Background
-HorseRacing
 
 Horse racing has a long and distinguished history, practised in civilisations across the world since ancient times. The modern horse racing became well-established in the 18th century in Britian. It continued to grow in popularity till this day, and was one of the few sports that continued during the Covid-19 crisis in Australia and Hong Kong.
 
